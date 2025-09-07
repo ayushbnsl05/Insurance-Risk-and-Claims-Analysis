@@ -9,3 +9,7 @@ Identify high-risk segments – analyze claims by car use, make, year, and drive
 Understand customer profiles – study claims distribution across age, gender, education, and marital status.
 Detect geographic trends – evaluate claim amounts by urban, rural, and suburban zones.
 Support strategic decisions – provide insights for risk assessment, premium setting, and policy improvements.
+
+	Screenshots / Demos
+The dashboard looks like. - 
+![Dashboard Preview]()
